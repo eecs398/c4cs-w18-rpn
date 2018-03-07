@@ -6,7 +6,7 @@ operators = {
     '-': operator.sub,
     '*': operator.mul,
     '/': operator.truediv,
-    '^': operator.ixor,
+    '^': operator.pow,
 }
 
 def calculate(myarg):
